@@ -12,7 +12,7 @@ Práctica de JavaScript para crear un color RGB a partir de sliders.
 - HTML
 - CSS
 
-## Capturas
+## 🖼️ Capturas
 
 <img src="https://github.com/user-attachments/assets/d9b5032a-0859-4fcb-9a98-b16c06c75a3b" width="600px" />
 
